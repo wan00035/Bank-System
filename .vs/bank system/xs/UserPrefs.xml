@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EEE53A2F-D53A-4F6E-A502-23494E3CC393}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="bank system/Program.cs">
+    <Files>
+      <File FileName="bank system/Program.cs" Line="162" Column="1" />
+      <File FileName="bank system/CheckingAccount.cs" />
+      <File FileName="bank system/SavingAccount.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bank system" expanded="True">
+            <Node name="bank system" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.bank_220system PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
